@@ -1,12 +1,6 @@
 server:
   port: 8083
 
-spring:
-  security:
-    user:
-      name: geniusconfig
-      password: geniusconfig  
-
 eureka:
   client:
     registerWithEureka: false
